@@ -18,21 +18,21 @@
 
 ## 🚀 Highlighted Projects
 
-### 🛣️ YOLOv8 Lane Detection | [🔗 GitHub](https://github.com/pratiman1/lane-detection)
+### 🛣️ YOLOv8 Lane Detection | 
 > Real-time lane detection for autonomous tractors using YOLOv8  
 > 🔁 CSV export of trajectory | 📹 OpenCV integration | 🧠 AI vision module  
 > 📍 Enabled real-world path planning for semi-autonomous farming
 
 ---
 
-### 🍎 Apple Detection & Depth Estimation | [🔗 GitHub](https://github.com/pratiman1/apple-detection)
+### 🍎 Apple Detection & Depth Estimation | 
 > 🍏 3D apple localization using YOLOv8 + Intel RealSense  
 > 🧠 Fruit detection + robotic pick points estimation  
 > 📷 Real-time depth estimation for precise targeting
 
 ---
 
-### 🚗 OCR Car Entry System | [🔗 GitHub](https://github.com/pratiman1/car-number-reader)
+### 🚗 OCR Car Entry System | 
 > Web-based vehicle number plate recognition using Flask + OCR  
 > 🧾 Logs entries to SQL | 🔍 Search by car type, owner, time  
 > 📉 Reduced manual entry by 50%
