@@ -38,11 +38,10 @@
 > 📉 Reduced manual entry by 50%
 
 ---
-🌳 Hiring Prediction System |
-
-Candidate Hiring Prediction Using Decision Trees + Random Forests
-📊 Trained on experience, education, internships & more
-🖼 Visualized decision tree with Graphviz | 🤖 Robust predictions with Random Forest
+### 🌳 Hiring Prediction System |  
+> Candidate hiring prediction using **Decision Trees + Random Forests**  
+> 📊 Trained on experience, education, internships & more  
+> 🖼 Visualized decision tree with Graphviz | 🤖 Robust predictions with Random Forest
 
 
 ## 📊 GitHub Insights
